@@ -5,9 +5,10 @@ A joke telling app, with free (ad-supported) and paid product flavours.
 
 ## Screenshot
 
+<img src="screenshots/screen1.png" widht="225" height="400">
 
 ## Summary
-The app consists of four modules. 
+This app consists of four modules. 
 * A Java library that provides jokes.
 * A Google Cloud Endpoints (GCE) project that serves those jokes.
 * An Android Library containing an activity for displaying jokes.
